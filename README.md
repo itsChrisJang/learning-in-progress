@@ -1,4 +1,4 @@
-# blog-in-action
+# learning-in-progress
 
 to-do
 1. ElasticSearch를 활용하여 검색 기능 구현
